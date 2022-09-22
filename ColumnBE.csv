@@ -1,0 +1,117 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742125::Definition,1073742126::Name,1075849056::Physical Data Type,1075849148::Comments,1075849176::Physical Name
+1075838981::145,employee first name,Column,Employee�s name,Employee First Name,varchar(20),Employee�s name,Employee First Name
+1075838981::146,employee address,Column,First line of the employee�s address,Employee Address,varchar(20),First line of the employee�s address,Employee Address
+1075838981::147,employee phone,Column,Employee�s home phone number,Employee Phone,integer,Employee�s home phone number,Employee Phone
+1075838981::148,store manager,Column,The employee who manages the video store,Store Manager,varchar(20),The employee who manages the video store,Store Manager
+1075838981::149,store address,Column,The first line of the street address of the store,Store Address,varchar(20),The first line of the street address of the store,Store Address
+1075838981::150,store phone,Column,The store�s phone number,Store Phone,integer,The store�s phone number,Store Phone
+1075838981::151,store city,Column,The city associated with the store�s address,Store City,varchar(20),The city associated with the store�s address,Store City
+1075838981::152,store state,Column,The state associated with the store�s address,Store State,varchar(20),The state associated with the store�s address,Store State
+1075838981::153,store zip code,Column,The zip code associated with the store�s address,Store Zip Code,integer,The zip code associated with the store�s address,Store Zip Code
+1075838981::154,employee address 2,Column,Second line street address of the employee,Employee Address 2,varchar(20),Second line street address of the employee,Employee Address 2
+1075838981::155,store address 2,Column,The first line of the street address of the store,Store Address 2,varchar(20),The first line of the street address of the store,Store Address 2
+1075838981::156,movie title,Column,,Movie Title,varchar(20),,Movie Title
+1075838981::157,movie director,Column,Last name of the movie�s director,Movie Director,varchar(20),Last name of the movie�s director,Movie Director
+1075838981::162,rental date,Column,The date on which the movie was rented,Rental Date,datetime,The date on which the movie was rented,Rental Date
+1075838981::163,due date,Column,The date on which the  movie is due back to the store,Due Date,datetime,The date on which the  movie is due back to the store,Due Date
+1075838981::164,rental status,Column,Rental status of the movie copy,Rental Status,varchar(20),Rental status of the movie copy,Rental Status
+1075838981::165,overdue charge,Column,The amount owed for an overdue movie rental,Overdue Charge,integer,The amount owed for an overdue movie rental,Overdue Charge
+1075838981::166,rental rate,Column,Amount charged for the rental of a movie,Rental Rate,integer,Amount charged for the rental of a movie,Rental Rate
+1075838981::167,rental record date,Column,The date on which the rental transaction  is recorded,Rental Record Date,datetime,The date on which the rental transaction  is recorded,Rental Record Date
+1075838981::169,general condition,Column,code identifying the general condition of the copy of the movie,General Condition,varchar(20),code identifying the general condition of the copy of the movie,General Condition
+1075838981::170,movie format,Column,"Defines the format of the movie copy (i.e VHS\, DVD)",Movie Format,varchar(20),"Defines the format of the movie copy (i.e VHS\, DVD)",Movie Format
+1075838981::171,movie copy number,Column,A unique number  identifying the movie copy,Movie Copy Number,integer,A unique number  identifying the movie copy,Movie Copy Number
+1075838981::173,soc sec number,Column,Social Security Number,Soc Sec Number,integer,Social Security Number,Soc Sec Number
+1075838981::174,hire date,Column,Employee�s date of hire at the video store,Hire Date,datetime,Employee�s date of hire at the video store,Hire Date
+1075838981::175,salary,Column,Annual salary paid to the employee,Salary,integer,Annual salary paid to the employee,Salary
+1075838981::176,email,Column,email,Email,varchar(20),email,Email
+1075838981::177,employee number,Column,A unique number that identifies the store in which the employee works,Employee Number,varchar(20),A unique number that identifies the store in which the employee works,Employee Number
+1075838981::179,description,Column,A brief description of the movie�s plot or story line,Description,varchar(20),A brief description of the movie�s plot or story line,Description
+1075838981::180,star 1 name,Column,Last name of the leading star of the movie,Star 1 Name,varchar(20),Last name of the leading star of the movie,Star 1 Name
+1075838981::181,rating,Column,Rating associated with the movie,Rating,varchar,Rating associated with the movie,Rating
+1075838981::182,star 2 name,Column,Last name of the second leading star of the movie,Star 2 Name,varchar(20),Last name of the second leading star of the movie,Star 2 Name
+1075838981::183,movie number,Column,A unique number that identifies a movie,Movie Number,integer,A unique number that identifies a movie,Movie Number
+1075838981::185,genre,Column,The genre associated with the movie,Genre,char,The genre associated with the movie,Genre
+1075838981::186,rental rate,Column,Amount charged for the rental of a movie,Rental Rate,numeric,Amount charged for the rental of a movie,Rental Rate
+1075838981::187,movie url,Column,The location on the internet where the movie clip is stored,Movie Url,varchar,The location on the internet where the movie clip is stored,Movie Url
+1075838981::188,movie clip,Column,Stored Movie clip,Movie Clip,varbinary,Stored Movie clip,Movie Clip
+1075838981::189,store number,Column,A unique identifier of the video store,Store Number,integer,A unique identifier of the video store,Store Number
+1075838981::202,soc sec number,Column,Social Security Number,Soc Sec Number,integer,Social Security Number,Soc Sec Number
+1075838981::204,employee phone,Column,Employee�s home phone number,Employee Phone,integer,Employee�s home phone number,Employee Phone
+1075838981::210,movie copy number,Column,A unique number  identifying the movie copy,Movie Copy Number,integer,A unique number  identifying the movie copy,Movie Copy Number
+1075838981::215,movie number,Column,A unique number that identifies a movie,Movie Number,integer,A unique number that identifies a movie,Movie Number
+1075838981::218,movie number,Column,A unique number that identifies a movie,Movie Number,integer,A unique number that identifies a movie,Movie Number
+1075838981::223,store number,Column,A unique identifier of the video store,Store Number,integer,A unique identifier of the video store,Store Number
+1075838981::227,supervisor,Column,A unique number that identifies the employee,Supervisor,varchar(20),A unique number that identifies the employee,Supervisor
+1075838981::244,customer number,Column,A unique number associated with Customer,Customer Number,integer,A unique number associated with Customer,Customer Number
+1075838981::246,customer address,Column,Street address of the customer,Customer Address,varchar(20),Street address of the customer,Customer Address
+1075838981::247,customer city,Column,City associated with Customer�s address,Customer City,varchar(20),City associated with Customer�s address,Customer City
+1075838981::248,customer first name,Column,First name of a Customer,Customer First Name,varchar(20),First name of a Customer,Customer First Name
+1075838981::249,customer last name,Column,Last name of a Customer,Customer Last Name,varchar(20),Last name of a Customer,Customer Last Name
+1075838981::250,customer state,Column,The two-character state abbreviation associated with customer�s address,Customer State,varchar(20),The two-character state abbreviation associated with customer�s address,Customer State
+1075838981::251,customer zip code,Column,zip-code associated with Customer�s address,Customer Zip Code,integer,zip-code associated with Customer�s address,Customer Zip Code
+1075838981::252,email,Column,The email address associated with a customer,Email,varchar,The email address associated with a customer,Email
+1075838981::259,customer number,Column,A unique number associated with Customer,Customer Number,integer,A unique number associated with Customer,Customer Number
+1075838981::264,customer number,Column,A unique number associated with Customer,Customer Number,integer,A unique number associated with Customer,Customer Number
+1075838981::266,credit card,Column,A credit card number associated with Customer,Credit Card,integer,A credit card number associated with Customer,Credit Card
+1075838981::267,credit card exp,Column,Expiration date on the customer�s credit card,Credit Card Exp,integer,Expiration date on the customer�s credit card,Credit Card Exp
+1075838981::268,status code,Column,Payment status associated with a Customer,Status Code,varchar(20),Payment status associated with a Customer,Status Code
+1075838981::279,credit_card,Column,A credit card number associated with Customer,Credit Card,integer,A credit card number associated with Customer,Credit Card
+1075838981::280,credit_card_exp,Column,Expiration date on the customer�s credit card,Credit Card Exp,integer,Expiration date on the customer�s credit card,Credit Card Exp
+1075838981::281,status_code,Column,Payment status associated with a Customer,Status Code,varchar(20),Payment status associated with a Customer,Status Code
+1075838981::283,customer_number,Column,A unique number associated with Customer,Customer Number,integer,A unique number associated with Customer,Customer Number
+1075838981::284,customer_address,Column,Street address of the customer,Customer Address,varchar(20),Street address of the customer,Customer Address
+1075838981::285,customer_city,Column,City associated with Customer�s address,Customer City,varchar(20),City associated with Customer�s address,Customer City
+1075838981::286,customer_first_name,Column,First name of a Customer,Customer First Name,varchar(20),First name of a Customer,Customer First Name
+1075838981::287,customer_last_name,Column,Last name of a Customer,Customer Last Name,varchar(20),Last name of a Customer,Customer Last Name
+1075838981::288,customer_state,Column,The two-character state abbreviation associated with customer�s address,Customer State,varchar(20),The two-character state abbreviation associated with customer�s address,Customer State
+1075838981::289,customer_zip_code,Column,zip-code associated with Customer�s address,Customer Zip Code,integer,zip-code associated with Customer�s address,Customer Zip Code
+1075838981::290,email,Column,The email address associated with a customer,Email,varchar,The email address associated with a customer,Email
+1075838981::292,rental_record_date,Column,The date on which the rental transaction  is recorded,Rental Record Date,datetime,The date on which the rental transaction  is recorded,Rental Record Date
+1075838981::293,movie_copy_number,Column,A unique number  identifying the movie copy,Movie Copy Number,integer,A unique number  identifying the movie copy,Movie Copy Number
+1075838981::294,movie_number,Column,A unique number that identifies a movie,Movie Number,integer,A unique number that identifies a movie,Movie Number
+1075838981::295,rental_date,Column,The date on which the movie was rented,Rental Date,datetime,The date on which the movie was rented,Rental Date
+1075838981::296,due_date,Column,The date on which the  movie is due back to the store,Due Date,datetime,The date on which the  movie is due back to the store,Due Date
+1075838981::297,rental_status,Column,Rental status of the movie copy,Rental Status,varchar(20),Rental status of the movie copy,Rental Status
+1075838981::298,overdue_charge,Column,The amount owed for an overdue movie rental,Overdue Charge,integer,The amount owed for an overdue movie rental,Overdue Charge
+1075838981::299,rental_rate,Column,Amount charged for the rental of a movie,Rental Rate,integer,Amount charged for the rental of a movie,Rental Rate
+1075838981::301,movie_title,Column,,Movie Title,varchar(20),,Movie Title
+1075838981::303,credit_card,Column,A credit card number associated with Customer,Credit Card,integer,A credit card number associated with Customer,Credit Card
+1075838981::304,credit_card_exp,Column,Expiration date on the customer�s credit card,Credit Card Exp,integer,Expiration date on the customer�s credit card,Credit Card Exp
+1075838981::305,status_code,Column,Payment status associated with a Customer,Status Code,varchar(20),Payment status associated with a Customer,Status Code
+1075838981::306,Overdue_Charge_Rate,Column,,Overdue Charge Rate,char(18),,Overdue Charge Rate
+1075838981::308,customer_number,Column,A unique number associated with Customer,Customer Number,integer,A unique number associated with Customer,Customer Number
+1075838981::309,customer_address,Column,Street address of the customer,Customer Address,varchar(20),Street address of the customer,Customer Address
+1075838981::310,customer_city,Column,City associated with Customer�s address,Customer City,varchar(20),City associated with Customer�s address,Customer City
+1075838981::311,customer_first_name,Column,First name of a Customer,Customer First Name,varchar(20),First name of a Customer,Customer First Name
+1075838981::312,customer_last_name,Column,Last name of a Customer,Customer Last Name,varchar(20),Last name of a Customer,Customer Last Name
+1075838981::313,customer_state,Column,The two-character state abbreviation associated with customer�s address,Customer State,varchar(20),The two-character state abbreviation associated with customer�s address,Customer State
+1075838981::314,customer_zip_code,Column,zip-code associated with Customer�s address,Customer Zip Code,integer,zip-code associated with Customer�s address,Customer Zip Code
+1075838981::315,email,Column,The email address associated with a customer,Email,varchar,The email address associated with a customer,Email
+1075838981::317,rental_record_date,Column,The date on which the rental transaction  is recorded,Rental Record Date,datetime,The date on which the rental transaction  is recorded,Rental Record Date
+1075838981::318,movie_copy_number,Column,A unique number  identifying the movie copy,Movie Copy Number,integer,A unique number  identifying the movie copy,Movie Copy Number
+1075838981::319,movie_number,Column,A unique number that identifies a movie,Movie Number,integer,A unique number that identifies a movie,Movie Number
+1075838981::320,rental_date,Column,The date on which the movie was rented,Rental Date,datetime,The date on which the movie was rented,Rental Date
+1075838981::321,due_date,Column,The date on which the  movie is due back to the store,Due Date,datetime,The date on which the  movie is due back to the store,Due Date
+1075838981::322,rental_status,Column,Rental status of the movie copy,Rental Status,varchar(20),Rental status of the movie copy,Rental Status
+1075838981::323,overdue_charge,Column,The amount owed for an overdue movie rental,Overdue Charge,integer,The amount owed for an overdue movie rental,Overdue Charge
+1075838981::324,rental_rate,Column,Amount charged for the rental of a movie,Rental Rate,integer,Amount charged for the rental of a movie,Rental Rate
+1075838981::325,Overdue_Charge_Rate,Column,,Overdue Charge Rate,char(18),,Overdue Charge Rate
+1075838981::330,movie number,Column,A unique number that identifies a movie,Movie Number,integer,A unique number that identifies a movie,Movie Number
+1075838981::335,store number,Column,A unique identifier of the video store,Store Number,integer,A unique identifier of the video store,Store Number
+1075838981::340,payment transaction number,Column,A unique number associated with the payment,Payment Transaction Number,integer,A unique number associated with the payment,Payment Transaction Number
+1075838981::342,payment type,Column,"check\, credit card\, e-payment.",Payment Type,char(18),"check\, credit card\, e-payment.",Payment Type
+1075838981::343,payment amount,Column,The amount paid to rent the movie,Payment Amount,numeric,The amount paid to rent the movie,Payment Amount
+1075838981::344,payment date,Column,The date on which the movie was rented,Payment Date,datetime,The date on which the movie was rented,Payment Date
+1075838981::345,payment status,Column,The status of the payment,Payment Status,varchar(1),The status of the payment,Payment Status
+1075838981::346,check bank number,Column,The bank number associated with the check issued for payment,Check Bank Number,integer,The bank number associated with the check issued for payment,Check Bank Number
+1075838981::347,check number,Column,,Check Number,integer,,Check Number
+1075838981::348,epay vendor number,Column,Defines the vendor associated with the customer�s electronic payment,Epay Vendor Number,integer,Defines the vendor associated with the customer�s electronic payment,Epay Vendor Number
+1075838981::349,epay account number,Column,Defines the customer account associated with the  electronic payment,Epay Account Number,integer,Defines the customer account associated with the  electronic payment,Epay Account Number
+1075838981::350,credit card number,Column,The number of the customer credit card,Credit Card Number,char(18),The number of the customer credit card,Credit Card Number
+1075838981::351,credit card exp,Column,Expiration date on the customer�s credit card,Credit Card Exp,datetime,Expiration date on the customer�s credit card,Credit Card Exp
+1075838981::352,credit card type,Column,,Credit Card Type,char(18),,Credit Card Type
+1075838981::355,employee number,Column,A unique number that identifies the employee,Employee Number,varchar(20),A unique number that identifies the employee,Employee Number
+1075838981::359,Customer No,Column,A unique number associated with a customer,Customer No,integer,A unique number associated with a customer,Customer No
+1075838981::363,customer number,Column,A unique number associated with a customer,Customer Number,integer,A unique number associated with a customer,Customer Number
+1075838981::367,payment transaction number,Column,A unique number associated with the payment,Payment Transaction Number,integer,A unique number associated with the payment,Payment Transaction Number

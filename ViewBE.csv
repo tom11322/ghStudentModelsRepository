@@ -1,0 +1,3 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742125::Definition,1073742126::Name,1075849764::Child Entity
+1075839059::276,CUSTOMER_INVOICE,View,,CustomerInvoice,
+1075839059::277,OVERDUE_NOTICE,View,,OverdueNotice,
